@@ -18,6 +18,7 @@ import java.util.*;
 @Repository
 public class GlobalParamRepository {
 	private static Logger log = Logger.getLogger(GlobalParamRepository.class);
+
 	private SessionFactory sessionFactory;
 
 	@Autowired
