@@ -1,8 +1,10 @@
 .classpath
 .project
 .settings
-.idea
-.metadata
+/.idea
+/.metadata
+/repository
 /target
 /build
 /bin/
+
